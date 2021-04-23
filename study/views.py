@@ -16,6 +16,7 @@ gems = [
         'date_entered': 'March 1, 2020'         
     },]
 
+#Added a comment
 # Create your views here.
 
 def home(request):
